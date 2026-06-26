@@ -42,7 +42,7 @@ Built for the **Kothastack** YouTube channel. 📺 [Watch the full tutorial](#) 
 ### 2. Clone the repo
 
 ```bash
-git clone https://github.com/kothastack/gemini_chat.git
+git clone https://github.com/balumahendra592/gemini_chat.git
 cd gemini_chat
 ```
 
@@ -148,6 +148,6 @@ MIT — free to use, learn from, and build on.
 
 Built by **Regeti Bala Murali Krishna** for **Kothastack**.
 
-🔗 [Portfolio](https://regeti.qzz.io) · 📺 YouTube: [@kothastack](#)
+🔗 [Portfolio](https://regeti.qzz.io) · 💻 [GitHub](https://github.com/balumahendra592) · 📺 YouTube: [@kothastack](#)
 
 *New tech, built. Build · Deploy · Debug · Learn.*
